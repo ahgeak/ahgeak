@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Anna 👋
+- My name is Anna (Edwardson) Chuapetcharasopon
+- I'm a full-stack developer currently open to work
+- I have a Master of Arts in Education from Stanford University
+- I have a Bachelor of Arts from Dartmouth College
+
+### Contact Me:
+<p align="left">
+   
+</p>
 
 <!--
 **ahgeak/ahgeak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

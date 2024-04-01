@@ -6,7 +6,7 @@
 
 ### Contact Me:
 <p align="left">
-   <a href="https://www.linkedin.com/in/annachuapetcharasopon" target="blank"><img align="center" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" title = "LinkedIn" alt="linkedin logo" height="30" /></a>
+   <a href="https://www.linkedin.com/in/annachuapetcharasopon" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" title = "LinkedIn" alt="linkedin logo" height="30" /></a>
 
    
 </p>

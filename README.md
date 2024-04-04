@@ -15,7 +15,9 @@
 <p align="left">
    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
 </p>
 
 <!--

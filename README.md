@@ -18,6 +18,9 @@
    <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+   <img width="48" height="48" src="https://img.icons8.com/material-outlined/48/github.png" alt="github"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 </p>
 
 <!--

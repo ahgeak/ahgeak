@@ -21,6 +21,7 @@
    <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
    <img width="48" height="48" src="https://img.icons8.com/material-outlined/48/github.png" alt="github"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
 </p>
 
 <!--

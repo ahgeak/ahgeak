@@ -8,7 +8,7 @@
 <p align="left">
    <a href="https://www.linkedin.com/in/annachuapetcharasopon" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" title = "LinkedIn" alt="linkedin logo"/></a>
    <a href="mailto:annaedwardson@gmail.com" target="_blank"><img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" title = "Email" alt="email logo"/></a>
-   <a href="https://annachuapetcharasopon.netlify.app/" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/web.png" title = "Portfolio" alt="portfolio logo"/></a>
+   <a href="https://annachuapetcharasopon.netlify.app/" target="_blank"><img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/web.png" title = "Portfolio" alt="portfolio logo"/></a>
 </p>
 
 ### Skills:

@@ -17,6 +17,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+<!--
 ### Skills:
 <p align="left">
    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
@@ -30,6 +31,7 @@
    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
 </p>
+-->
 
 <!--
 **ahgeak/ahgeak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
